@@ -4,9 +4,9 @@ Hello and welcome to my page! I'm Androz2091, a french and english young develop
 I'm also a ⭐ [Brawl Stars](https://supercell.com/en/games/brawlstars/) gamer.
 
 ## 💻 Developpement Skills
-* If I want to code a 🤖 discord bot, I usually use ![Node JS](https://i.imgur.com/1qiQaPK.png) [Node.js](https://nodejs.org/en/) and ![Discord JS](https://i.imgur.com/wkQkzkl.png) [Discord.js](https://discord.js.org/)
-* If I want to code a 🕸️ website, I usually use ![Bootstrap](https://i.imgur.com/y6VGGny.png) [Bootstrap](https://getbootstrap.com/)
-* If I want to use a 🖥️ database, I usually use ![Quick.db](https://i.imgur.com/KU8Ojax.png) [Quick.db](https://quickdb.js.org/)
+* If I want to code a 🤖 discord bot, I usually use [Node.js](https://nodejs.org/en/) and [Discord.js](https://discord.js.org/)
+* If I want to code a 🕸️ website, I usually use [Bootstrap](https://getbootstrap.com/)
+* If I want to use a 🖥️ database, I usually use [Quick.db](https://quickdb.js.org/)
 
 ## 📈 Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elioking1&theme=midnight-purple)](https://github.com/Elioking1)
