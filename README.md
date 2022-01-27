@@ -1,6 +1,6 @@
-![](https://i.imgur.com/tjx4vMz.jpg)
+<!--- [](https://i.imgur.com/tjx4vMz.jpg) -->
 ## 👋 Presentation
-Hello and welcome to my page! I'm Elioking1, a french and english young developper.
+Hello and welcome to my github page! I'm Elioking1, a french and english young developper.
 I'm also a ⭐ [Brawl Stars](https://supercell.com/en/games/brawlstars/) gamer.
 
 ![Discord](https://discord.c99.nl/widget/theme-3/695313341404414001.png)
