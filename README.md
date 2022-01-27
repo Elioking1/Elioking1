@@ -18,7 +18,7 @@ I'm also a ⭐ [Brawl Stars](https://supercell.com/en/games/brawlstars/) gamer.
 ## 💻 Developpement Skills
 * If I want to code a 🤖 discord bot, I usually use [Node.js](https://nodejs.org/en/) and [Discord.js](https://discord.js.org/)
 * If I want to code a 🕸️ website, I usually use [Bootstrap](https://getbootstrap.com/)
-* If I want to use a 🖥️ database, I usually use [Quick.db](https://quickdb.js.org/)
+* If I want to use a 🖥️ database, I usually use [Quick.db](https://quickdb.js.org/) and [MongoDB](https://www.mongodb.com/)
 
 ## 📈 Stats
 <div align="center">
