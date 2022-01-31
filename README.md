@@ -1,5 +1,5 @@
 <!--- [](https://i.imgur.com/tjx4vMz.jpg) -->
-<a href="https://github.com/Elioking1"><img src="https://github.com/Elioking1.png"></a>
+<a href="https://github.com/Elioking1"><img align= "center" src="https://github.com/Elioking1.png"></a>
 <h1 align="center">👋 Hey, I'm <strong>Elioking1</strong></h1>
 <h3 align="center">A passionate young 🗼 french and 🗽 english ⚡ Web and 🌃 NPM developer from 🌲 Lebanon</h3>
 
