@@ -21,8 +21,9 @@
 
 <h3 align="left">💖 Connect with me 🕸:</h3>
 <p align="left">
-<a href="https://instagram.com/elio.miro" target="blank"><img align="center" src="https://img.shields.io/badge/elio.miro-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="elio.miro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Elioking1" target="blank"><img align="center" src="https://img.shields.io/badge/Elioking1-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="elioking1" height="30" width="40" /></a>
+<a href="https://instagram.com/elio.miro" target="blank"><img align="center" src="https://img.shields.io/badge/elio.miro-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="elio.miro"/></a>
+  <a href="https://twitch.tv/elioking1" target="blank"><img align="center" src="https://img.shields.io/badge/elioking1-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="elioking1"/></a>
+<a href="https://www.youtube.com/c/Elioking1" target="blank"><img align="center" src="https://img.shields.io/badge/Elioking1-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="elioking1"/></a>
 </p>
 
 <h3 align="left">🐱‍👤 Languages and Tools 🔥:</h3>
