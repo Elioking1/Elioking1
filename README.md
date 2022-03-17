@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elioking1&theme=dracula&count_private=true" alt="elioking1" /></a> </p>
 
-- 🔭 I’m currently working on a brand new NPM package: **discord-images**
+- 🔭 I’m currently working on a brand new NPM package: **discord-pictures**
 
 - 🌱 I’m currently learning **Bootstrap**
 
